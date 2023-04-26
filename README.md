@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:d.chernyshev99@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/daniil-chernyshev/) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white)
@@ -38,7 +38,7 @@
 ![Shopify](https://img.shields.io/badge/shopify-8DB543?style=plastic&logo=Shopify&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=plastic&logo=graphql&logoColor=white)  
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=des1nteresado&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true&hide=stars&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=des1nteresado&theme=ayu-mirage&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=des1nteresado&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
